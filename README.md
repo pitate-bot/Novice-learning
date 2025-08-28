@@ -1,3 +1,3 @@
 # Novice-learning
-This is pure novice learning, and he has not even figured out how to write the most basic code. PLEASE advise and understand
+This is pure novice learning, 和 he has not even figured out how to write the most basic code. PLEASE advise and understand.
 just for fun haha:>
